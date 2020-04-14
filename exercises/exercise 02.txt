@@ -1,2 +1,2 @@
-1: matrix transpose
-2: add two matrix with same dimensions
+1: write python program to transpose given matrix
+2: write python program to add two matrix with same dimensions

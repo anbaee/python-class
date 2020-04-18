@@ -1,0 +1,17 @@
+1- write python function which give vector in string format and return float vector
+	input : '[1.98,2.45,3.09,4.67,8.54]'
+	output: [1.98,2.45,3.09,4.67,8.54]
+
+2- write a python program which return avg , max , min and summation of a given list
+
+3- Write a recursive function which can compute the factorial of a given numbers.
+
+4- write a function to generate a dictionary that contains (i, i*i)
+	input 8
+	output :{1: 1, 2: 4, 3: 9, 4: 16, 5: 25, 6: 36, 7: 49, 8: 64}
+
+5- write exercise 4 with map and lambda expresion
+
+
+
+

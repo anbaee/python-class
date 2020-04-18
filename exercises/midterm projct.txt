@@ -1,0 +1,15 @@
+
+write python program that process a file in following format:
+
+	input shape: 
+		
+		key01 [vector]
+		key02 [vector]
+		key03 [vector]
+	
+	output shape: 
+		
+		a dictionary containg all of keys and corresponding vectors in floating format
+
+
+please see the file with name : 12_5e3da4a9846c323216262ca8.txt	
